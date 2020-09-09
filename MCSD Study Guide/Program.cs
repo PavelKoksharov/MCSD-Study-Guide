@@ -10,6 +10,8 @@ namespace MCSD_Study_Guide
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("f");
+
         }
     }
 }
